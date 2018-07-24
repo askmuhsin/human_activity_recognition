@@ -2,3 +2,5 @@ data
 model
 rnn_model
 __pycache__
+.ipynb_checkpoints
+just_a_test_img.png
