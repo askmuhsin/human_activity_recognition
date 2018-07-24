@@ -1,3 +1,4 @@
 data
 model
 rnn_model
+__pycache__
