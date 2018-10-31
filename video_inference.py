@@ -22,7 +22,7 @@ cnn_tf_model_loc = './model/'
 lstm_model_loc = './rnn_model/model_fc2_main.h5'
 feauture_length = 84
 padding_length = 100
-video_file_name = '../data/segmented_set2/41_17_2.avi'   ## test file
+video_file_name = '../../Dataset/segmented_set2/41_17_2.avi'   ## test file
 actual_class = 2    ## for the default video
 
 if len(sys.argv)>1:
