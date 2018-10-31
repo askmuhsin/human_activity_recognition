@@ -155,8 +155,8 @@ def main():
     else:
         if actual_class == pred:
             print("Model prediction is strong")
-        else:
-            print("Model prediction is wrong")
+        # else:
+        #     print("Model prediction is wrong")
     os.system("rm ./data/inference/*/*")
 
 if __name__ == '__main__':
