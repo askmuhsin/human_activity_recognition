@@ -2,8 +2,8 @@ import numpy as np
 import cv2
 import os
 
-loc_src_1 = "/home/muhsin/code/master_thes/human_activity_sdha/data/img_preprocessed_set_1/"
-loc_src_2 = "/home/muhsin/code/master_thes/human_activity_sdha/data/img_preprocessed_set_2/"
+loc_src_1 = "../../Dataset/img_preprocessed_set_1/"
+loc_src_2 = "../../Dataset/img_preprocessed_set_2/"
 
 def getClassNum(video_file_name):
     """does some string operations to obtain class num"""
